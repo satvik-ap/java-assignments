@@ -67,7 +67,8 @@ The program ranks all delivery partners from highest to lowest based on their to
 
 ---
 
-<img width="366" height="235" alt="Image" src="https://github.com/user-attachments/assets/6ddf3b75-cb91-42d0-9ea4-d0b1dc5eb9fd" />
+<img width="355" height="259" alt="image" src="https://github.com/user-attachments/assets/be500f83-15b4-4186-81b5-0d55110738c3" />
+
 
 ---
 
