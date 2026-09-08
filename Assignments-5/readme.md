@@ -63,11 +63,11 @@ The program provides the following operations:
 ---
 
 <img width="285" height="152" alt="Image" src="https://github.com/user-attachments/assets/21d4c735-e72b-4607-8b26-9c0412e0a976" />
-<img width="294" height="276" alt="Image" src="https://github.com/user-attachments/assets/a22683e0-32d7-454a-bdca-0c1f70940561" />
+<img width="470" height="391" alt="image" src="https://github.com/user-attachments/assets/fabc60f5-e26d-4c71-9982-17e501ec9817" />
 <img width="328" height="122" alt="Image" src="https://github.com/user-attachments/assets/816a46aa-0147-408a-8dd4-c328039ad504" />
 <img width="335" height="51" alt="Image" src="https://github.com/user-attachments/assets/ce0ccd9d-0166-45c7-80d6-0b72b3eb3f5e" />
-<img width="432" height="128" alt="Image" src="https://github.com/user-attachments/assets/857b6029-726e-4e46-b80b-632f1bc1cb46" />
-<img width="511" height="54" alt="Image" src="https://github.com/user-attachments/assets/1bf3e97f-5641-4b9f-90dc-b4d447c6beb8" />
+<img width="679" height="195" alt="image" src="https://github.com/user-attachments/assets/5158044f-8f0b-4f5a-a552-e4de3ad50b44" />
+<img width="699" height="81" alt="image" src="https://github.com/user-attachments/assets/bdd0f912-dc89-487a-ae69-5d40bd2e42ab" />
 <img width="307" height="54" alt="Image" src="https://github.com/user-attachments/assets/15bd3fa2-6d0c-47e3-aa12-82c7f346717e" />
 <img width="1193" height="191" alt="image" src="https://github.com/user-attachments/assets/b002fb9e-183f-4679-aec2-a5fd31043b2f" />
 
