@@ -54,7 +54,7 @@ The program accepts two numbers and performs the following operations:
 
 ---
 
-<img width="630" height="564" alt="Image" src="https://github.com/user-attachments/assets/fb21b02a-00b1-40f1-94a9-8c3013abe95d" />
+<img width="307" height="302" alt="Image" src="https://github.com/user-attachments/assets/fc9f42de-9e32-48e1-9634-4d843f5fcf34" />
 
 ---
 # Project Structure
