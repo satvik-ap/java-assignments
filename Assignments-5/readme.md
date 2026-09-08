@@ -69,7 +69,7 @@ The program provides the following operations:
 <img width="432" height="128" alt="Image" src="https://github.com/user-attachments/assets/857b6029-726e-4e46-b80b-632f1bc1cb46" />
 <img width="511" height="54" alt="Image" src="https://github.com/user-attachments/assets/1bf3e97f-5641-4b9f-90dc-b4d447c6beb8" />
 <img width="307" height="54" alt="Image" src="https://github.com/user-attachments/assets/15bd3fa2-6d0c-47e3-aa12-82c7f346717e" />
-<img width="395" height="49" alt="Image" src="https://github.com/user-attachments/assets/e9567dc5-1fa7-46e6-b869-97bbb2690bd3" />
+<img width="1193" height="191" alt="image" src="https://github.com/user-attachments/assets/b002fb9e-183f-4679-aec2-a5fd31043b2f" />
 
 ___
 
