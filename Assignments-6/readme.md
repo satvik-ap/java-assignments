@@ -74,7 +74,7 @@ The user can:
 <img width="216" height="107" alt="Image" src="https://github.com/user-attachments/assets/fd537c2a-13ee-4126-98d5-6d98223e477f" />
 <img width="203" height="100" alt="Image" src="https://github.com/user-attachments/assets/7456a9d8-a9e3-49db-8a04-06c5858addd3" />
 <img width="250" height="155" alt="Image" src="https://github.com/user-attachments/assets/68eb5b2c-931b-41d1-a2b1-31ed63dfdaf9" />
-<img width="328" height="51" alt="Image" src="https://github.com/user-attachments/assets/95b3bd56-3669-469e-87ca-ef8a3c0b800b" />
+<img width="1036" height="177" alt="image" src="https://github.com/user-attachments/assets/c454ee2b-426d-4560-9cf4-3063d1b741fb" />
 
 ---
 # Rental Calculation
