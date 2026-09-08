@@ -76,7 +76,7 @@ Uses **Bubble Sort** to arrange students from highest to lowest total marks.
 <img width="298" height="125" alt="Image" src="https://github.com/user-attachments/assets/d393da46-448f-4a1b-8cfe-ce5e20d32339" />
 <img width="317" height="98" alt="Image" src="https://github.com/user-attachments/assets/7658cea3-8201-4658-8f00-2339e4cfddfc" />
 <img width="355" height="118" alt="Image" src="https://github.com/user-attachments/assets/0b86ece5-528f-407c-b8aa-fb11c988809e" />
-![Uploading image.png…]()
+<img width="2172" height="724" alt="Image" src="https://github.com/user-attachments/assets/4be69bce-021f-4b11-aed0-9b2aed896703" />
 
 ---
 
