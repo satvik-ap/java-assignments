@@ -54,9 +54,6 @@ The program provides the following options:
 7. Delete Record File
 <img width="193" height="39" alt="Image" src="https://github.com/user-attachments/assets/1011c181-2658-4311-8130-b622b8da4af3" />
 
-8. Exit
-<img width="322" height="57" alt="Image" src="https://github.com/user-attachments/assets/3f0c1384-5256-49b0-b0f8-45b0ee9c0511" />
-
 ---
 
 ## Project Structure
