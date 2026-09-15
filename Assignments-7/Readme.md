@@ -48,7 +48,7 @@ Valid output :-
 
 Invalid output :-
 
-<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/b168a7d0-39b8-4489-af91-bc1c206335df" />
+<img width="465" height="150" alt="image" src="https://github.com/user-attachments/assets/7148f045-9717-4a2a-bc91-4746a54674c9" />
 
 ---
 
