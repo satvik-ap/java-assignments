@@ -43,7 +43,8 @@ The program provides the following options:
 <img width="213" height="53" alt="Image" src="https://github.com/user-attachments/assets/9ee3d564-35fc-45d7-ae56-2e958c6d4bcd" />
 
 4. Display File Information
-<img width="735" height="141" alt="Image" src="https://github.com/user-attachments/assets/4d5ca9a1-6c58-43ac-852a-4282d1d22ba6" />
+<img width="735" height="141" alt="image" src="https://github.com/user-attachments/assets/2f3f8a06-f03b-427e-b145-162f07596572" />
+
 
 5. Read File Content
 <img width="182" height="71" alt="Image" src="https://github.com/user-attachments/assets/5d185075-2db5-4f5b-b567-f4e01a9375bb" />
