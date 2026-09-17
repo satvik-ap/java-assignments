@@ -25,6 +25,8 @@ The program stores the correct answers and student answers in separate character
 
 The application also counts the number of correct, wrong, and unattempted questions.
 
+<img width="378" height="195" alt="image" src="https://github.com/user-attachments/assets/db23c676-9fd5-4e80-9ba7-3617ab26904f" />
+
 ## Objectives
 
 The main objectives of this project are:
